@@ -16,6 +16,9 @@ During the Django Girls event I created this blog in five hours.
 - Heroku pushed version link 
 - Improve CSS functionality 
 - Improve colour scheme
+- Additional secturity e.g. authorisation of posts
+- comment model 
+- PostgreSQL database instead of default sqlite? 
 
 ### Acknowledgements
 - [DjangoGirls Tutorial](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details)
